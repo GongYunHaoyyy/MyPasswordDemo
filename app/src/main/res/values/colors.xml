@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mine_shaft">#303030</color>
+<!--换肤资源-->
+    <color name="test_background_red">#F00000</color>
+    <color name="test_background_blue">#0162ff</color>
+    <color name="test_background_black">#040404</color>
+    <color name="test_background_yellow">#f6e653</color>
+    <color name="test_background_zi">#6640fc</color>
+    <color name="test_background_green">#43f112</color>
+<!--换肤资源-->
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_theme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:tag="skin:test_background:textColor"
+        android:textColor="@color/test_background_black"
+        android:text="设置主题颜色"/>
+
+    <Button
+        android:id="@+id/initcolor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:tag="skin:test_background:textColor"
+        android:textColor="@color/test_background_black"
+        android:layout_below="@+id/button_theme"
+        android:text="恢复默认颜色"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:tag="skin:test_background:textColor"
+        android:textColor="@color/test_background_black"
+        android:text="活动2"
+        android:textSize="50dp"
+        android:layout_marginTop="188dp"
+        android:layout_below="@+id/button_theme"
+        android:layout_centerHorizontal="true"/>
+
+
+
+</RelativeLayout>

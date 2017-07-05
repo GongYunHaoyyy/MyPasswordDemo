@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/red"
+        android:title="设置红色"/>
+
+    <item
+        android:id="@+id/yellow"
+        android:title="设置黄色"/>
+
+    <item
+        android:id="@+id/blue"
+        android:title="设置蓝色"/>
+
+    <item
+        android:id="@+id/green"
+        android:title="设置绿色"/>
+
+    <item
+        android:id="@+id/zi"
+        android:title="设置紫色"/>
+
+    <item
+        android:id="@+id/black"
+        android:title="设置黑色"/>
+
+</menu>
